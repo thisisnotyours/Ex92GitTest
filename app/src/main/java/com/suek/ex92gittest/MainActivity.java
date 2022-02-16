@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         //git test
 
-        // add something in dev_2... for git test
+        // add something in dev_2... for git test---------- in (dev_2)
     }
 }
