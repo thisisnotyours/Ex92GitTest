@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         // add something in dev_2... for git test---------- in (dev_2)
 
         // fetched successful
-        // now try conflicts.
+        // now try conflicts- added more in dev_2.. and now try merge into master
     }
 }
