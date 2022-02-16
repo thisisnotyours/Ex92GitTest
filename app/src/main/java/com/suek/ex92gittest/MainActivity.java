@@ -21,5 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
         // fetched successful
         // now try conflicts- added more in dev_2.. and now try merge into master
+
+        //try conflict test again-
+        // to be added from ... addede from dev_2
     }
 }
