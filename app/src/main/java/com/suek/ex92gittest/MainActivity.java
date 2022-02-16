@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //추가....
 
         //git test
+
+        // add something in dev_2... for git test
     }
 }
